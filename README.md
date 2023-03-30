@@ -22,10 +22,6 @@ SERVER_MAIL=sender@server.com
 
 La simulation de mail avec Ethereal renvoie dans la console un lien permettant de voir la simulation d’envoie de ce mail.
 
-![Untitled](Fonctionnement%20de%20l%E2%80%99application%200c4a2db6ac2d41c9a9f2954687dfeafc/Untitled.png)
-
-![Untitled](Fonctionnement%20de%20l%E2%80%99application%200c4a2db6ac2d41c9a9f2954687dfeafc/Untitled%201.png)
-
 Lancer le projet avec la commande 
 
 ```jsx
